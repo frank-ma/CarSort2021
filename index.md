@@ -1,4 +1,5 @@
-                                      ## User Agreement
+## User Agreement
+
 Welcome to Pet Monsters. Your privacy is important to us.
 Pet Monsters (hereinafter referred to as "us") is committed to protecting our users’ (hereinafter referred to as "users" or "you") privacy. This Privacy Policy (hereinafter referred to as "Policy") details how we collect, store, use, and manage information, including but not limited to your personal information and the data you may provide or we may collect from any games (collectively, the "Services") offered on any mobile platforms (e.g., iOS and Android) or relevant websites (http://www.0egg.com/pet/, (hereinafter referred to as "website"). Please note, this Policy applies only to the data and information we collect or receive through your using of the services. We are not responsible for any acts of any third party representatives or companies, any use of their website content , the information or data you provide them, or products and services they may offer. Any link to these sites does not constitute our sponsorship or affiliate relationship with these companies or persons.
 
